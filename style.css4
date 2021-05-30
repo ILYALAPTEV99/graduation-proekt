@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+}
+
+.link-header{
+    box-shadow: 10px 10px 5px 0 grey;
+    background-image: linear-gradient(to right, rgb(0, 174, 255), white, rgb(0, 174, 255));
+    color:aqua;
+    border-radius: 7px;
+    font-size: 30px;
+    margin-top: 50px;
+    font-family: Segoe Script;
+    text-decoration: none;
+}
+
+.link-header:hover{
+    background-image: linear-gradient(to right, yellow, white, yellow);
+    color:#FFD073;
+}
+
+header {
+    background-color: lightblue;
+    height: 70px;
+}
+
+footer {
+    background-color: lightblue;
+}
