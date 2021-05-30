@@ -1,0 +1,27 @@
+<html>
+  <head>
+    <title>Обо мне</title>
+    <link rel="stylesheet" href="style.css2"/>
+  </head>
+  <body>
+    <header>
+      <a class="link-header" href="index.html">Лаптев Илья</a>
+    </header>
+    <main>
+      <ul>
+        <li>Люблю играть в игры</li>
+        <li>Занимаюсь спортом - картингом</li>
+        <li>Программироваю</li>
+      </ul>
+      <img class="kart" src="https://sun9-25.userapi.com/impg/uY9U9CMSJJ2-n6TJbDT6hPdDNmkPcnMaJ9Knbg/gT-1CjbBjGw.jpg?size=1280x853&quality=96&sign=036e710b37de17820cbdb1c6e779bb49&type=album" />
+      <div class="giv">
+        <img  src="https://ne-kurim.ru/forum/attachments/kot-pechataet-gif.1251955/"/>
+      </div>
+    </main>
+    <footer>
+      <a class="social" href=""><img src="https://mars.algoritmika.org/uploads/2021/04/social1_0_1618254571.png" width="100px" height="100px"/></a>
+      <a class="social" href=""><img src="https://mars.algoritmika.org/uploads/2021/04/Group%201_0_1618254571.png" width="100px" height="100px"/></a>
+      <a class="social" href=""><img src="https://mars.algoritmika.org/uploads/2021/04/social3_0_1618254571.png" width="100px" height="100px"/></a>
+    </footer>
+  </body>
+</html>
