@@ -10,6 +10,12 @@ body {
     font-size: 30px;
     margin-top: 50px;
     font-family: Segoe Script;
+    text-decoration: none;
+}
+
+.link-header:hover{
+    background-image: linear-gradient(to right, yellow, white, yellow);
+    color:#FFD073;
 }
 
 header {
