@@ -26,3 +26,22 @@ header {
 h1 {
     text-align: center;
 }
+
+.link-text{
+    text-decoration: none;
+    background-color: lightblue;
+    border-radius: 5px;
+    color: black;
+    padding: 5px;
+}
+
+footer{
+    background-color: lightblue;
+    margin: 20px;
+    height: 150px;
+    padding-top: 20px;
+}
+
+.social{
+    margin: 20px;
+}
